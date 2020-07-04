@@ -22,3 +22,12 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+## RSK Mainnet Deploy
+UniswapV2Factory: https://explorer.rsk.co/address/0xfaa7762f551bba9b0eba34d6443d49d0a577c0e1
+
+## RSK Tesnet Deploy
+UniswapV2Factory: https://explorer.testnet.rsk.co/address/0xfaa7762f551bba9b0eba34d6443d49d0a577c0e1
+
+
+
