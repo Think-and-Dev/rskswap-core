@@ -1,7 +1,8 @@
 # Rsk Swap V2
-[![Version](https://img.shields.io/npm/v/@uniswap/v2-core)](https://www.npmjs.com/package/@uniswap/v2-core)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![npm version](https://img.shields.io/npm/v/@thinkanddev/rskswap-core/latest.svg)](https://www.npmjs.com/package/@thinkanddev/rskswap-core/v/latest)
 
-In-depth documentation on Uniswap V2 is available at [rskswap.com](https://rskswap.com/docs).
+In-depth documentation on Rsk Swap V2 is available at [rskswap.com](https://rskswap.com/docs).
 
 The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@uniswap/v2-core@latest/).
 
